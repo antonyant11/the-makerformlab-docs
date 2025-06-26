@@ -1,0 +1,30 @@
+site_name: The MakerForge Documentation
+site_url: https://antonyant11.github.io/the-makerforge-docs/ # IMPORTANT: Update this later
+repo_url: https://github.com/antonyant11/the-makerforge-docs/ # IMPORTANT: Update this later
+repo_name: GitHub # This will show a "Source" link to your repo
+
+theme:
+  name: material # This activates the beautiful Material for MkDocs theme
+  palette:
+    # Optional: Customize colors
+    primary: indigo
+    accent: light blue
+  features:
+    - navigation.tabs # Optional: Adds tabs for top-level navigation
+    - navigation.indexes # Optional: Allows sub-sections to have their own index page
+    - search.suggest
+    - search.highlight
+    - content.tabs
+    - content.code.copy # Adds a copy button to code blocks
+
+nav:
+  - Home: index.md # Your homepage
+  - 'For Architects/Designers':
+    - 'Getting Started': 'architects/getting-started.md'
+    - 'Browse Artworks': 'architects/browse.md' # Corrected path
+    - 'Interacting with Artworks': 'architects/interacting.md'
+  - 'For Artists':
+    - 'Getting Started': 'artists/getting-started.md'
+    - 'Uploading Artworks': 'artists/uploading.md'
+  - 'Administration': 'admin/index.md'
+  - 'FAQ': faq.md
