@@ -1,27 +1,34 @@
 site_name: The MakerForge Documentation
-site_url: https://antonyant11.github.io/the-makerforge-docs/ # IMPORTANT: Update this later
-repo_url: https://github.com/antonyant11/the-makerforge-docs/ # IMPORTANT: Update this later
-repo_name: GitHub # This will show a "Source" link to your repo
+site_url: https://antonyant11.github.io/the-makerforge-docs/
+repo_url: https://github.com/antonyant11/the-makerforge-docs/
+repo_name: GitHub
 
 theme:
-  name: material # This activates the beautiful Material for MkDocs theme
+  name: material
   palette:
-    # Optional: Customize colors
     primary: indigo
     accent: light blue
   features:
-    - navigation.tabs # Optional: Adds tabs for top-level navigation
-    - navigation.indexes # Optional: Allows sub-sections to have their own index page
+    - navigation.tabs
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - content.tabs
-    - content.code.copy # Adds a copy button to code blocks
+    - content.code.copy
+
+# This section is crucial for rendering Mermaid diagrams and other features
+markdown_extensions:
+  - pymdownx.superfences # Essential for Mermaid rendering
+  - pymdownx.highlight # For code highlighting (good practice)
+  - pymdownx.arithmatex # Often included with superfences, good for math if needed
+  - extra # Enables additional Markdown features often used with Material for MkDocs
 
 nav:
-  - Home: index.md # Your homepage
+  - Home: index.md
+  - 'Site Flowchart': flowchart.md
   - 'For Architects/Designers':
     - 'Getting Started': 'architects/getting-started.md'
-    - 'Browse Artworks': 'architects/browse.md' # Corrected path
+    - 'Browse Artworks': 'architects/browse.md' # CORRECTED: Now matches the renamed file
     - 'Interacting with Artworks': 'architects/interacting.md'
   - 'For Artists':
     - 'Getting Started': 'artists/getting-started.md'

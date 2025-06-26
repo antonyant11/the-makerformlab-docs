@@ -1,0 +1,1 @@
+![The MakerForge Site Flowchart](img/the_makerforge_flowchart.svg)
