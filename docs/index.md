@@ -22,7 +22,7 @@ Upon arriving at The MakerForge homepage, you'll find a clear gateway to our cur
 
 * **Light:** Features sculptural artworks specifically designed to incorporate various lighting elements.
 * **Form:** Showcases freestanding sculptural artworks, ideal for focal points in any space.
-* **Vert:** Presents captivating wall murals and relief sculptures.
+* **Wall:** Presents captivating wall murals and relief sculptures.
 
 Clicking any of these category buttons takes you to a vertical list of artworks within that selection. Each entry provides a quick overview, including a thumbnail image, the artwork's name, the artist's name, and a brief description.
 
