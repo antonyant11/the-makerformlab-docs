@@ -71,6 +71,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#administration-dashboard" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -631,6 +636,21 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Administration
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
@@ -643,6 +663,43 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#key-administrative-functions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Key Administrative Functions
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#guidelines-for-administrators" class="md-nav__link">
+    <span class="md-ellipsis">
+      Guidelines for Administrators
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -687,6 +744,34 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#key-administrative-functions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Key Administrative Functions
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#guidelines-for-administrators" class="md-nav__link">
+    <span class="md-ellipsis">
+      Guidelines for Administrators
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -705,9 +790,88 @@
   
 
 
-  <h1>Administration</h1>
-
-<p>"# Administration Guide" </p>
+<h1 id="administration-dashboard">Administration Dashboard</h1>
+<p>Welcome to The MakerForge Administration Dashboard. This area provides dedicated tools and functionalities for administrators to ensure the quality, integrity, and smooth operation of the platform. Your role is crucial in maintaining a curated and high-quality collection of artworks and managing user interactions.</p>
+<h2 id="key-administrative-functions">Key Administrative Functions</h2>
+<ol>
+<li>
+<p><strong>Artwork Verification Queue:</strong></p>
+<ul>
+<li><strong>Purpose:</strong> Review newly submitted artworks by artists before they go live on the public platform.</li>
+<li><strong>Functionality:</strong> Access a queue of artworks marked as "Pending Admin Review." For each artwork, you can:<ul>
+<li>View all submitted details (name, description, category, price).</li>
+<li>Inspect high-quality images.</li>
+<li>Download and review the 3D CAD model file to ensure accuracy and integrity.</li>
+<li>Verify the artist's credentials (if necessary).</li>
+</ul>
+</li>
+<li><strong>Actions:</strong><ul>
+<li><strong>Approve:</strong> Make the artwork live and visible to architects/designers. This triggers notifications to the artist.</li>
+<li><strong>Reject:</strong> Send the artwork back to the artist for revisions, providing clear reasons for rejection (e.g., poor image quality, inaccurate CAD model, unsuitable content). This triggers notifications to the artist.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>User Management:</strong></p>
+<ul>
+<li><strong>Purpose:</strong> Oversee and manage registered user accounts (Architects/Designers, Artists, other Administrators).</li>
+<li><strong>Functionality:</strong><ul>
+<li>View user profiles and account details.</li>
+<li>Manage user roles and permissions.</li>
+<li>Suspend or deactivate accounts if necessary (e.g., for policy violations).</li>
+<li>Reset passwords or provide support for account issues.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Content Management:</strong></p>
+<ul>
+<li><strong>Purpose:</strong> Manage platform-wide content beyond individual artworks.</li>
+<li><strong>Functionality:</strong><ul>
+<li>Update static pages (e.g., About Us, Terms of Service, Privacy Policy).</li>
+<li>Manage artwork categories and their descriptions.</li>
+<li>Update site-wide announcements or banners.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Sales and Hold Management:</strong></p>
+<ul>
+<li><strong>Purpose:</strong> Monitor and oversee artwork sales and active holds.</li>
+<li><strong>Functionality:</strong><ul>
+<li>View a log of all "Hold" requests, including duration and status.</li>
+<li>Monitor "Buy" transactions, track payment statuses, and ensure successful completion.</li>
+<li>Facilitate communication between buyers and artists regarding logistics (shipment, installation) if needed.</li>
+<li>Handle any disputes or issues related to holds or purchases.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Analytics and Reporting (Future Development):</strong></p>
+<ul>
+<li><strong>Purpose:</strong> Gain insights into platform usage, popular artworks, and user behavior.</li>
+<li><strong>Functionality:</strong> Access reports on:<ul>
+<li>Artwork downloads.</li>
+<li>Number of holds and purchases.</li>
+<li>Website traffic.</li>
+<li>User engagement metrics.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<h2 id="guidelines-for-administrators">Guidelines for Administrators</h2>
+<ul>
+<li><strong>Fairness and Consistency:</strong> Apply review guidelines and policies consistently across all artworks and users.</li>
+<li><strong>Clear Communication:</strong> When rejecting artworks or managing user accounts, provide clear, constructive feedback and reasons.</li>
+<li><strong>Security:</strong> Maintain strict confidentiality of user data and platform information.</li>
+<li><strong>Proactive Monitoring:</strong> Regularly check queues and logs to ensure timely processing and issue resolution.</li>
+</ul>
+<p>Your diligence ensures The MakerForge remains a trusted and valuable resource for both artists and design professionals.</p>
 
 
 
