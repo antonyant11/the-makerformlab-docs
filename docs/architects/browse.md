@@ -29,4 +29,4 @@ Clicking on any artwork from a category list will take you to its dedicated **Ar
     * **Detailed Description:** An in-depth narrative about the artwork, its inspiration, materials, dimensions, and any specific installation requirements.
     * **Price:** The listed price for purchasing the artwork.
 
-Continue to [Interacting with Artworks](architects/interacting.md) to learn how to download CAD files, place holds, or purchase artworks.
+Continue to [Interacting with Artworks](interacting.md) to learn how to download CAD files, place holds, or purchase artworks.

@@ -20,6 +20,6 @@ Welcome, talented artists! The MakerForge is your direct pathway to connect with
 ## What You'll Find Here
 
 In this section, you'll find comprehensive instructions on:
-* [Uploading Your Artworks](artists/uploading.md) – the core functionality for sharing your creations.
+* [Uploading Your Artworks](uploading.md) – the core functionality for sharing your creations.
 
 We are thrilled to partner with you in bringing your extraordinary sculptural art to the architectural and design world!

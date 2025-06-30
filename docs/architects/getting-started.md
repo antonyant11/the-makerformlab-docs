@@ -26,7 +26,7 @@ Welcome, visionary architects and designers! The MakerForge is your dedicated pl
 ## What You'll Find Here
 
 In this section, you'll find guides on:
-* [Browse Artworks](architects/browse.md)
-* [Interacting with Artworks (Download, Hold, Buy)](architects/interacting.md)
+* [Browse Artworks](browse.md)
+* [Interacting with Artworks (Download, Hold, Buy)](interacting.md)
 
 We're excited to see how The MakerForge helps you bring your architectural visions to life with inspiring art!
