@@ -1,6 +1,6 @@
 # Browse Artworks
 
-Discovering the perfect sculptural piece for your architectural project is effortless with The MakerForge's intuitive Browse experience.
+Discovering the perfect sculptural piece for your architectural project is effortless with The MakerFormLab's intuitive Browse experience.
 
 ## Navigating the Collection
 

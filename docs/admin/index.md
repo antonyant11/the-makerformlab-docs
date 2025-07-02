@@ -1,6 +1,6 @@
 # Administration Dashboard
 
-Welcome to The MakerForge Administration Dashboard. This area provides dedicated tools and functionalities for administrators to ensure the quality, integrity, and smooth operation of the platform. Your role is crucial in maintaining a curated and high-quality collection of artworks and managing user interactions.
+Welcome to The MakerFormLab Administration Dashboard. This area provides dedicated tools and functionalities for administrators to ensure the quality, integrity, and smooth operation of the platform. Your role is crucial in maintaining a curated and high-quality collection of artworks and managing user interactions.
 
 ## Key Administrative Functions
 
@@ -53,4 +53,4 @@ Welcome to The MakerForge Administration Dashboard. This area provides dedicated
 * **Security:** Maintain strict confidentiality of user data and platform information.
 * **Proactive Monitoring:** Regularly check queues and logs to ensure timely processing and issue resolution.
 
-Your diligence ensures The MakerForge remains a trusted and valuable resource for both artists and design professionals.
+Your diligence ensures The MakerFormLab remains a trusted and valuable resource for both artists and design professionals.

@@ -1,1 +1,1 @@
-![The MakerForge Site Flowchart](img/the_makerforge_flowchart.svg)
+![The MakerFormLab Site Flowchart](img/the_makerformlab_flowchart.svg)

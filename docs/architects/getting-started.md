@@ -1,6 +1,6 @@
 # Getting Started for Architects & Designers
 
-Welcome, visionary architects and designers! The MakerForge is your dedicated platform for seamlessly integrating unique sculptural art into your projects from the earliest design stages. This guide will help you get started on your journey to discover, visualize, and incorporate exceptional artworks.
+Welcome, visionary architects and designers! The MakerFormLab is your dedicated platform for seamlessly integrating unique sculptural art into your projects from the earliest design stages. This guide will help you get started on your journey to discover, visualize, and incorporate exceptional artworks.
 
 ## Your First Steps
 
@@ -14,9 +14,9 @@ Welcome, visionary architects and designers! The MakerForge is your dedicated pl
     * Each category offers a curated selection of artworks tailored to specific aesthetic and functional requirements.
 
 3.  **Refine Your Search (Coming Soon):**
-    While our category Browse is straightforward, we're constantly enhancing The MakerForge. Future updates will introduce advanced search and filtering options to help you pinpoint the perfect artwork even faster.
+    While our category Browse is straightforward, we're constantly enhancing The MakerFormLab. Future updates will introduce advanced search and filtering options to help you pinpoint the perfect artwork even faster.
 
-## Why Use The MakerForge?
+## Why Use The MakerFormLab?
 
 * **Early Integration:** Avoid costly redesigns by incorporating artworks into your 3D models from the initial concept.
 * **Optimized Planning:** Design with perfect pre-installed power, lighting, and natural light considerations for the artwork.
@@ -29,4 +29,4 @@ In this section, you'll find guides on:
 * [Browse Artworks](browse.md)
 * [Interacting with Artworks (Download, Hold, Buy)](interacting.md)
 
-We're excited to see how The MakerForge helps you bring your architectural visions to life with inspiring art!
+We're excited to see how The MakerFormLab helps you bring your architectural visions to life with inspiring art!

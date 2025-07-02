@@ -1,20 +1,20 @@
 # Frequently Asked Questions (FAQ)
 
-Welcome to The MakerForge FAQ. Here you'll find answers to common questions about using our platform, whether you're an architect, a designer, an artist, or just curious.
+Welcome to The MakerFormLab FAQ. Here you'll find answers to common questions about using our platform, whether you're an architect, a designer, an artist, or just curious.
 
 ## General Questions
 
-### Q: What is The MakerForge?
-A: The MakerForge is an innovative web platform that connects architects and designers with exceptional sculptural art. It allows designers to integrate 3D CAD models of artworks directly into their projects from the initial design phase, while providing artists a direct point-of-sale and secure hub for their work.
+### Q: What is The MakerFormLab?
+A: The MakerFormLab is an innovative web platform that connects architects and designers with exceptional sculptural art. It allows designers to integrate 3D CAD models of artworks directly into their projects from the initial design phase, while providing artists a direct point-of-sale and secure hub for their work.
 
-### Q: Who can use The MakerForge?
+### Q: Who can use The MakerFormLab?
 A: The platform is primarily designed for three main user groups:
 * **Architects & Designers:** To discover, visualize, download CAD models, hold, and purchase sculptural art.
 * **Artists:** To showcase and sell their 3D sculptural artworks to design professionals.
 * **Administrators:** To manage and curate the platform content and users.
 Guests can browse the collection but cannot download, hold, or buy artworks without logging in.
 
-### Q: Is there a cost to join The MakerForge?
+### Q: Is there a cost to join The MakerFormLab?
 A: Browse the platform is free. Specific costs may apply for artists (e.g., commission on sales) and for architects/designers (e.g., placing a hold on an artwork). Detailed pricing information will be available upon registration or within your account settings.
 
 ## For Architects & Designers
@@ -48,10 +48,10 @@ A: You will need to upload:
 A: Your submitted artwork will enter a "Pending Admin Review" status. Our administrators will review the submission for eligibility and quality. You will be notified once your artwork is approved and live, or if it requires revisions.
 
 ### Q: How are sales and holds managed?
-A: The MakerForge handles the "Hold" and "Buy" transactions. When an artwork is sold, you will be notified, and our platform will facilitate the necessary information exchange for shipping and installation.
+A: The MakerFormLab handles the "Hold" and "Buy" transactions. When an artwork is sold, you will be notified, and our platform will facilitate the necessary information exchange for shipping and installation.
 
 ### Q: Do you take a commission on sales?
-A: Yes, The MakerForge operates on a commission basis for successful sales. Specific commission rates and terms will be detailed in your Artist Agreement upon registration.
+A: Yes, The MakerFormLab operates on a commission basis for successful sales. Specific commission rates and terms will be detailed in your Artist Agreement upon registration.
 
 ## Technical Questions
 

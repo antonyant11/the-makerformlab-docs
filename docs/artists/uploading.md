@@ -1,6 +1,6 @@
 # Uploading Artworks
 
-Sharing your sculptural masterpieces with the architectural and design community on The MakerForge is a straightforward process. This guide outlines the steps to upload your artworks, including all necessary visual and 3D model files.
+Sharing your sculptural masterpieces with the architectural and design community on The MakerFormLab is a straightforward process. This guide outlines the steps to upload your artworks, including all necessary visual and 3D model files.
 
 ## The Artwork Upload Form
 
@@ -39,7 +39,7 @@ From your Artist Dashboard, locate and click the **"Upload Artwork"** or **"Add 
     * **Recommendations:** Ensure good lighting, clear focus, and accurate color representation. Aim for images that showcase the artwork's texture, scale, and form effectively.
 
 2.  **3D CAD Model File:**
-    * This is a critical component for The MakerForge's functionality. Upload the 3D CAD model file of your artwork.
+    * This is a critical component for The MakerFormLab's functionality. Upload the 3D CAD model file of your artwork.
     * **Supported Formats:** .OBJ, .FBX, .STL, .DAE, or other common architectural CAD formats (refer to our FAQ for a full list of supported formats).
     * **Importance:** This file allows architects and designers to download and integrate your artwork directly into their design software for visualization and planning, significantly increasing its adoption potential.
     * **Accuracy:** Ensure the CAD model is an accurate representation of the physical artwork's dimensions and form.
@@ -50,7 +50,7 @@ Once you have filled out all the required information and uploaded your files:
 
 1.  **Review Your Submission:** Before clicking submit, carefully review all details for accuracy and completeness.
 2.  **Submit Artwork:** Click the "Submit" button.
-3.  **Pending Admin Review:** Your artwork will enter a "Pending Admin Review" status. Our administrators will review your submission to verify its eligibility, quality, and adherence to The MakerForge's guidelines.
+3.  **Pending Admin Review:** Your artwork will enter a "Pending Admin Review" status. Our administrators will review your submission to verify its eligibility, quality, and adherence to The MakerFormLab's guidelines.
 4.  **Notification:** You will receive a notification once your artwork has been approved (and goes live) or if it has been rejected (with reasons provided for necessary revisions).
 
-By following these steps, your incredible sculptural artworks will be prominently featured on The MakerForge, ready to be discovered and integrated into groundbreaking architectural and design projects worldwide.
+By following these steps, your incredible sculptural artworks will be prominently featured on The MakerFormLab, ready to be discovered and integrated into groundbreaking architectural and design projects worldwide.
